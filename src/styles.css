@@ -1,0 +1,18 @@
+.box {
+  height: 50px;
+  width: 400px;
+  border: 2px solid black;
+}
+button {
+  height: 50px;
+  width: 50px;
+}
+.calc {
+  width: 150px;
+  height: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.clc {
+  margin-top: 200px;
+}
